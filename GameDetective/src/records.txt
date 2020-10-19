@@ -1,0 +1,16 @@
+Sea of Thieves#Action-Adventure#60CND#December 16, 2016#3.5#Xbox#
+League of Legends#Battle Arena#0CND#October 27, 2009#3.5#PC#
+Gears 5#Third-Person Shooter#30CND#July 19, 2019#3.75#Xbox#
+The Last Guardian#Action-Adventure#20CND#December 6, 2016#4#Playstaion#
+Total War: Three Kingdoms#Strategy#70CND#23 May 2019#4#PC#
+Ratchet & Clank#Third-Person Shooter#20CND#April 12, 2016#4.25#Playstation#
+Civilization VI#Turn-Based Strategy#25CND#October 21, 2016#4.25#PC#
+Marvel's Spider-Man#Action-Adventure#70CND#September 7, 2018#4.5#Playstation#
+Bloodborne#Action Role-Playing#20CND#March 24, 2015#4.5#Playstation#
+Halo: Master Chief Collection#First-Person Shooter#50CND#November 11, 2014#4.5#Xbox#
+Forza Motorsport 7#Racing#40CND#October 3, 2017#4.5#Xbox#
+Ori and the Will of the Wisps#Platform-Adventure#20CND#March 10, 2020#4.5#Xbox#
+Dota 2#Battle Arena#0CND#July 9, 2013#4.5#PC#
+God of War#Action-Adventure#70CND#April 20, 2018#5#Playstation#
+Undertale#Role-Playing#13CND#September 15, 2015#5#PC#
+game name#genre#price#Date#Rating#Console#
